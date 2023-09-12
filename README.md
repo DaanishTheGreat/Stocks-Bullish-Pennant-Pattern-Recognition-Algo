@@ -7,4 +7,5 @@ This application studies the behavior of stock movement and detects when a stock
 3. There are preloaded stock data from AAPL and AMD that can be used for testing, however to use your own data, ensure that the formatting of your .csv file is the same as the other.csv files
 4. Navigate to bin\Debug\netcoreapp2.1 and paste your .csv file
 5. Navigate to Program.cs and on line 20, RawData.Import("AAPL.csv");, replace "AAPL.csv" with "YourFileName.csv" and Run Program
+<br>
 Happy Coding!
