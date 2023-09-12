@@ -1,0 +1,12 @@
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\bin\Debug\netcoreapp2.1\Bullish_Pennant_Algo.deps.json
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\bin\Debug\netcoreapp2.1\Bullish_Pennant_Algo.runtimeconfig.json
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\bin\Debug\netcoreapp2.1\Bullish_Pennant_Algo.runtimeconfig.dev.json
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\bin\Debug\netcoreapp2.1\Bullish_Pennant_Algo.dll
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\bin\Debug\netcoreapp2.1\Bullish_Pennant_Algo.pdb
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\obj\Debug\netcoreapp2.1\Bullish_Pennant_Algo.AssemblyInfoInputs.cache
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\obj\Debug\netcoreapp2.1\Bullish_Pennant_Algo.AssemblyInfo.cs
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\obj\Debug\netcoreapp2.1\Bullish_Pennant_Algo.csproj.CoreCompileInputs.cache
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\obj\Debug\netcoreapp2.1\Bullish_Pennant_Algo.dll
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\obj\Debug\netcoreapp2.1\Bullish_Pennant_Algo.pdb
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\obj\Debug\netcoreapp2.1\Bullish_Pennant_Algo.genruntimeconfig.cache
+C:\Users\daani\source\repos\Bullish_Pennant_Algo\Bullish_Pennant_Algo\obj\Debug\netcoreapp2.1\Bullish_Pennant_Algo.csprojAssemblyReference.cache
